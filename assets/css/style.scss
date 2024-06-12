@@ -5,3 +5,13 @@
 body {
     font-family: 'Your Font Name', sans-serif;
 }
+
+footer {
+  width:180px;
+  position: fixed;
+  left:50%;
+  margin-left:-530px;
+  bottom:20px;
+  text-align: right;
+  line-height: 16px;
+}
