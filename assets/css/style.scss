@@ -8,9 +8,10 @@ body {
 
 nav {
   width: 230px;
+  height: 230px;
   position: fixed; // position: fixed;
   overflow-y: auto; /* Cho phép cuộn nội dung theo chiều dọc nếu quá dài */
-  top: 520px;
+  top: 220px;
   left:50%;
   margin-left:-580px;
   text-align: left;
