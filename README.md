@@ -2,6 +2,7 @@
 CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc máy chào khách với những ưu điểm vượt trội so với hầu hết các loại máy chào khách chỉ kêu "kính cong" đơn điệu trên thị trường.
 
 [Readme2 tại đây.](/readme2)
+
 [readme2]({{ 'readme2' | relative_url }})
 
 ## Các ưu điểm của CiaoBot
