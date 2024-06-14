@@ -1,6 +1,6 @@
 ---
-title: Tên trang
-layout: template
+title: Tên trang readme2
+layout: default
 filename: readme2.md
 ---
 
