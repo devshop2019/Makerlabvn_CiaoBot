@@ -5,6 +5,8 @@ Tham khảo: https://mademistakes.com/mastering-jekyll/site-url-baseurl/
 
 [Đây là link tương đối dẫn đến readme2.md trong cùng 1 repo]({{ 'readme2' | relative_url }})
 
+Go to [readme2 page](readme2.md)
+
 # CiaoBot
 CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc máy chào khách với những ưu điểm vượt trội so với hầu hết các loại máy chào khách chỉ kêu "kính cong" đơn điệu trên thị trường.
 
