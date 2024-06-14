@@ -1,9 +1,13 @@
+# Hướng dẫn điều hướng trang cơ bản
+[Đây là link dẫn đến Readme2.md trong repo Makerlabvn_CiaoBot.](/Makerlabvn_CiaoBot/readme2)
+
+Tham khảo: https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+
+[Đây là link tương đối dẫn đến readme2.md trong cùng 1 repo]({{ 'readme2' | relative_url }})
+
 # CiaoBot
 CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc máy chào khách với những ưu điểm vượt trội so với hầu hết các loại máy chào khách chỉ kêu "kính cong" đơn điệu trên thị trường.
 
-[Readme2 tại đây.](/readme2)
-
-[readme2]({{ 'readme2' | relative_url }})
 
 ## Các ưu điểm của CiaoBot
 
