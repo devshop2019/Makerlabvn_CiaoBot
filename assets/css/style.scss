@@ -139,7 +139,7 @@ nav {
         font-size: 1em;
         padding-left: 15px; // Dịch phần tử .tag-h2 qua phải 15px
           &::before {
-              content: "-- ";
+              content: "- ";
             }
       }
     
