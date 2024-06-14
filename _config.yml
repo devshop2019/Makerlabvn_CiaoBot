@@ -9,3 +9,6 @@ show_downloads: "true"
 # You can custom zip url
 # github:
 #   zip_url: http://example.com/download.zip
+
+navbar-links:  # Danh sách các liên kết trong thanh điều hướng
+  About Me: "/readme2"
